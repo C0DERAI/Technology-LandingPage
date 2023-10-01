@@ -28,6 +28,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.3",
     "recharts": "^2.0.9",
+    "styled-components": "^6.0.7",
     "workbox-background-sync": "^6.1.2",
     "workbox-broadcast-update": "^6.1.2",
     "workbox-cacheable-response": "^6.1.2",
@@ -44,7 +45,9 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
-    "@testing-library/user-event": "^13.0.16"
+    "@testing-library/user-event": "^13.0.16",
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
